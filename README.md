@@ -9,4 +9,4 @@ Expand iCn3D distance functions to calculate multiple distance pairs and visuali
 - Evaluate experimental structures in reference to AlphaFold structures
 - Understand variations in protein conformation within families
 - Analysis of molecular dynamics trajectories
-- Discern subtle conformational differences
+- Discern subtle conformational differences eliduded by large dataset analysis
