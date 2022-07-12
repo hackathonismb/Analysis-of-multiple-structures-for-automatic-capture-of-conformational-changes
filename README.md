@@ -3,9 +3,9 @@
 **Team:** Tom Madej (Team Lead), David Bell, Chase Freschlin, Gabby Vento, Lianna Khachikyan
 
 ### Task 
-Expand function of iCn3D distance functions to calculate multiple distance pairs and visualize distance pair clusters 
+Expand iCn3D distance functions to calculate multiple distance pairs and visualize data results. 
 
-### Outcomes/Applications 
+### Applications 
 - Evaluate experimental structures in reference to AlphaFold structures
 - Understand variations in protein conformation within families
 - Analysis of molecular dynamics trajectories
