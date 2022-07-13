@@ -5,7 +5,9 @@
 ### Task 
 We are developing sensitive methods to detect subtle differences between protein structures, by leveraging large datasets and expanding iCn3D distance functions analysis feature. As a result, we may identify different interactions which can cause difference in structures. Recognizing different structures will allow us to dig deeper and determine mechanisms that cause the difference.
 
-### WorkFlow
+### Workflow Description
+
+### Workflow Diagram 
 
 ### Applications 
 - Evaluate experimental structures in reference to AlphaFold structures
@@ -16,3 +18,6 @@ We are developing sensitive methods to detect subtle differences between protein
 ### Future Add-Ons
 - Create an interactive Dendrogram and intergrate the figure to iCn3D
 - Expand analysis parameters to handle arbitrary alignments such as different chain identifers and different residue numbering between structures 
+
+
+### Tutorial 
