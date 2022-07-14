@@ -1,6 +1,5 @@
 # Analysis Of Multiple Structures For Automatic Capture of Conformational Changes
 ## Tools for Analyzing Structural Sets- Exploring Protein Conformations 
-**Team:** Tom Madej (Team Lead), David Bell, Chase Freschlin, Gabby Vento, Lianna Khachikyan
 
 ### Task 
 We are developing sensitive methods to detect subtle differences between protein structures, by leveraging large datasets and expanding iCn3D distance functions analysis feature. As a result, we may identify different interactions which can cause difference in structures. Recognizing different structures will allow us to dig deeper and determine mechanisms that cause the difference.
@@ -16,9 +15,20 @@ In the iCn3D command line, input their structure name and defined sets command f
 - Analysis of molecular dynamics trajectories
 - Discern subtle conformational differences eliduded by large dataset analysis
 
+
+### Tutorial 
+
+
+
 ### Future Add-Ons
 - Create an interactive Dendrogram and intergrate the figure to iCn3D
 - Expand analysis parameters to handle arbitrary alignments such as different chain identifers and different residue numbering between structures 
 
 
-### Tutorial 
+**Team:**
+- Tom Madej (Team Lead),[madej@ncbi.nlm.nih.gov](url)
+- David Bell, [david.bell@nih.gov](url)
+- Chase Freschlin, [freschlin@wisc.edu](url)
+- Gabby Vent, [christopher.vento@rockets.utoledo.edu](url)
+- Lianna Khachikyan,[lianna.khachikyan.348@my.csun.edu](url)
+
