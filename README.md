@@ -25,7 +25,7 @@ In the iCn3D command line, input their structure name and defined sets command f
 - Expand analysis parameters to handle arbitrary alignments such as different chain identifers and different residue numbering between structures 
 
 
-**Team:**
+### Team:
 - Tom Madej (Team Lead),[madej@ncbi.nlm.nih.gov](url)
 - David Bell, [david.bell@nih.gov](url)
 - Chase Freschlin, [freschlin@wisc.edu](url)
