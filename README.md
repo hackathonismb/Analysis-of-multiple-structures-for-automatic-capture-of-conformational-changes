@@ -29,6 +29,6 @@ In the iCn3D command line, input their structure name and defined sets command f
 - Tom Madej (Team Lead),[madej@ncbi.nlm.nih.gov](url)
 - David Bell, [david.bell@nih.gov](url)
 - Chase Freschlin, [freschlin@wisc.edu](url)
-- Gabby Vent, [christopher.vento@rockets.utoledo.edu](url)
+- Gabby Vento, [christopher.vento@rockets.utoledo.edu](url)
 - Lianna Khachikyan,[lianna.khachikyan.348@my.csun.edu](url)
 
